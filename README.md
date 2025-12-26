@@ -1,2 +1,2 @@
-# revising-js-basics
-revising js basics through project
+# basic html  calculator
+basic html -calculator
